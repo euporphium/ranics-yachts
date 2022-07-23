@@ -27,9 +27,14 @@ body {
 }
 
 .description {
-	font-size: 24px;
 	margin: 32px 0 48px;
 }
-.description p:first-of-type {
+
+.description__tag {
+	font-size: 24px;
 	margin-bottom: 8px;
+}
+
+.description__locations {
+	font-size: 20px;
 }
